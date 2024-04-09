@@ -1,0 +1,11 @@
+1. Explain what the terminal is in your own words.
+
+Answer: The terminal is a way to access and communicate with your laptop.
+
+2. What is the major difference between Git and GitHub?
+
+Answer: GitHub is a cloud service that stores your repository online and allows for collaboration. Git is a version control system that allows you to save different versions of your repositories.
+
+3. What are the steps to fork a GitHub repository?
+
+Answer: Go to GitHub in the browser and head to the repository. Then go to the top of the page and click fork.
